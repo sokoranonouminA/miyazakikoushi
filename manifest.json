@@ -1,0 +1,21 @@
+{
+  "name": "CalfNote 子牛管理",
+  "short_name": "CalfNote",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#007bff",
+  "description": "子牛の情報を管理するためのアプリです。",
+  "icons": [
+    {
+      "src": "cow-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "cow-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
